@@ -1,4 +1,4 @@
-# Stripchat APP 含充值教程 Includes top-up tutorial
+# Stlivexx APP 含充值教程 Includes top-up tutorial
 iPhone download  苹果端
 https://github.com/Stripchat-APP/stripchat-APP/releases/download/stripchatAPP/Stripchat-1.0.2.ipa  
 Android download  安卓端
@@ -14,11 +14,11 @@ https://heysocks.net/share/x29xRB
 New registered users, remember to verify your email, otherwise you won't be able to log in again  
 新注冊用戶，記得验证邮箱，不然無法二次登录  
   
-  
-
-stripchat 分站 branch，不需要vpn加速器， no need vpn  
+官网：
+https://stlivexxx.com 
+分站 branch：
 https://stzhibo.com  
-https://stlivexxx.com  
+ 
 <a href="https://stlivexxx.com"><img src="https://github.com/stripchat-kiki-2025/stlivexxx/blob/main/image/938d22c6.png" alt="image" style="max-width: 100%;">  
 
 
